@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+h1 {
+    color: black;
+}
+
+.container {
+    text-align: center;
+    width: 450px;
+    height: auto;
+    margin-left: 600px;
+    margin-top: -730px;
+    background-color: rgb(235, 111, 136);
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+
+}
+
+#image {
+    width: 400px;
+    border-radius: 50%;
+}
+
+span {
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+}
+
+input,
+select,
+textarea {
+    width: 430px;
+    height: 40px;
+    background-color: rgb(120, 219, 219);
+    text-align: center;
+}
