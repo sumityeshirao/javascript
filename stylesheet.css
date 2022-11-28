@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+body {
+    background-image: url('bgpic.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+    box-shadow: 3px 3px 3px 3px white;
+    width: 50%;
+    margin-left: 360px;
+    color: aqua;
+
+}
+
+#container {
+    background-color: transparent;
+    position: relative;
+    width: 550px;
+    height: 350px;
+    text-align: center;
+    box-shadow: 8px 8px 8px 8px violet;
+    margin: 50px 0 0 490px;
+
+}
+
+
+#btn {
+    background-color: black;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 20px;
+    width: 50px;
+    height: 35px;
+    box-shadow: 3px 3px 3px 3px white;
+    color: white;
+}
